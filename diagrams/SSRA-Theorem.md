@@ -177,6 +177,10 @@ When active, the human–AI environment **L** exhibits identifiable and measurab
 
 These properties belong to the **loop as a system**, not to the human or the AI in isolation.
 
+![Figure 1 – Stability Band and Transition Boundary](diagrams/your_image_filename.png)
+
+**Figure 1.** The stability band and transition boundary that define when a model’s state trajectory remains aligned with the user frame versus entering drift.
+
 ---
 
 ### 3.4 Collapse Conditions
