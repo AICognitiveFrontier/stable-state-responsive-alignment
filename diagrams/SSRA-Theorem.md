@@ -3,7 +3,7 @@
 Formal statement and proof outline for the Stable‑State Responsive Alignment (SSRA) mechanism.
 
 ## Citation
-Roy, B. (2026). *Stable‑State Responsive Alignment: The Missing Layer in Human–AI Collaboration (1.0).* Zenodo. https://doi.org/10.5281/zenodo.20127247
+Roy, B. (2026). *Stable‑State Responsive Alignment: The Missing Layer in Human–AI Collaboration (3.0).* Zenodo. https://zenodo.org/records/21304232
 
 # Reciprocal Loop Theorem
 
@@ -331,5 +331,5 @@ Neither the human, nor the AI, nor the prompt constitutes the phenomenon.
 
 ## 5. Citation
 
-Roy, B. (2026). *Stable‑State Responsive Alignment: The Missing Layer in Human–AI Collaboration (1.0).*  
-Zenodo. https://doi.org/10.5281/zenodo.20127247
+Roy, B. (2026). *Stable‑State Responsive Alignment: The Missing Layer in Human–AI Collaboration (3.0).*  
+Zenodo. (https://zenodo.org/records/21304232)
