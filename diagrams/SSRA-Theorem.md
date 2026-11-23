@@ -327,8 +327,6 @@ Neither the human, nor the AI, nor the prompt constitutes the phenomenon.
 - Drift‑resistance  
 - Predictable reciprocal development  
 
-Placeholder for implications text here.
-
 ---
 
 ## 5. Citation
