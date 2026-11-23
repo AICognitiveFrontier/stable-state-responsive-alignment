@@ -20,6 +20,5 @@ HumanAI, Medium
 ## CASE STUDY: Metaphors are not Neutral - What a Human–AI Handshake Revealed About Collaboration, Bias, and Interpretive Drift
 
 **Published Article**  
-Catchproof 
-[Read the article on Catchproof Blog]
-(https://catchproof.square.site/s/stories/metaphors-are-not-neutral)
+Catchproof  
+[Read the article on Catchproof Blog](https://catchproof.square.site/s/stories/metaphors-are-not-neutral)
