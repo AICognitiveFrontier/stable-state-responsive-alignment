@@ -21,4 +21,5 @@ HumanAI, Medium
 
 **Published Article**  
 Catchproof 
-[Read the article on Catchproof Blog](https://catchproof.square.site/s/stories/metaphors-are-not-neutral)
+[Read the article on Catchproof Blog]
+(https://catchproof.square.site/s/stories/metaphors-are-not-neutral)
